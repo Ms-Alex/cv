@@ -32,7 +32,7 @@ a   {
     text-decoration: none;
 }
 
-a:hover {
+.bottom-container a:hover {
     color: #FF8D8D;
 }
 
@@ -138,6 +138,7 @@ hr {
 /**********************/
 /*IMAGES*/
 /************************/
+
 .petals  {
     width: 50%;
 }
