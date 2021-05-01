@@ -1,2 +1,2 @@
 # cv
-Personal CV that I will update as my career progresses.
+Simple personal cv written in basic HTML & CSS.
